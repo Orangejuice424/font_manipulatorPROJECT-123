@@ -1,0 +1,24 @@
+#Heading{
+    font-size: 50px;
+    background-color: rgb(19, 139, 131);
+    padding:20px;
+}
+
+p{
+    color:red;
+    font-size:20px;
+}
+
+footer{
+    background-color: cadetblue;
+    position:fixed;
+    bottom: 0;
+    color:bisque;
+    width:100%;
+    text-align: center;
+    font-size:20px;
+}
+
+body{
+    background-size:cover;
+}
